@@ -1,32 +1,32 @@
 [
   {
     "id": 1,
-    "name": "Asma ,
-    "specialty": "Anglais",
+    "name": "neda" ,
+    "specialty": "francais",
     "average": 19
   },
   {
     "id": 2,
-    "name": "hajer",
+    "name": "saber",
     "specialty": "base donnee",
     "average": 15
   },
   {
     "id": 3,
-    "name": "aziz
-    "specialty": "Droit",
-    "average": 10
-  },
-  {
-    "id": 4,
-    "name": "hanen",
-    "specialty": "UML",
+    "name": "hadil",
+    "specialty": "poo",
     "average": 18
   },
   {
+    "id": 4,
+    "name": "nesrine",
+    "specialty": "UML",
+    "average": 0
+  },
+  {
     "id": 5,
-    "name": "nour",
-    "specialty": "PO",
-    "average": 20
+    "name": "oumaima",
+    "specialty": "js",
+    "average": 10
   }
 ]
